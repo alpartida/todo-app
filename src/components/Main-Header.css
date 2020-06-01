@@ -1,0 +1,17 @@
+#main-header {
+    background-color: green;
+    height: 100px;
+    color: white;
+    padding-top: 10px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    font-size: 40px;
+}
